@@ -6,4 +6,5 @@ Git에 대한 구체적이고 체계적인 학습을 위해서는 [공식 문서
 
 [00. Git이 뭐죠?](chapter00.md)    
 [01. Git 설치 및 초기 설정](chapter01.md)
+[02. Git 저장소 파일의 상태](chapter02.md)
 
