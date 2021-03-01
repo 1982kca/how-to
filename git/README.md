@@ -9,4 +9,5 @@ Git에 대한 구체적이고 체계적인 학습을 위해서는 [공식 문서
 [02. Git 저장소 파일의 상태](chapter02.md)
 [03. Git 저장소 파일의 상태 실습](chapter03.md)
 [04. branch란 무엇인가](chapter04.md)
+[05. remote 저장소와 local 저장소](chapter05.md)
 
